@@ -1,7 +1,7 @@
 ### Hi there, I'm Farida - aka [Rheeda Boo] 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Rheeda_boo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Rheedaboo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Rheeda_boo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Rheeda_boo)
 
 ## Developer, Learner, and July's favorite!
 
