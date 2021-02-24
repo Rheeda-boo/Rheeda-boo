@@ -5,10 +5,10 @@
 
 ## Developer, Learner, and July's favorite!
 
-- 🔭 I’m currently working as a Graduate trainee at [AzubiAfrica][website]!
-- 🌱 I’m currently learning everything to improve myself🤣
+- 🔭 I’m currently working as a Service Center trainee at [AmaliTech][website]!
+- 🌱 I’m currently learning everything to improve myself😊
 - 👯 I’m looking to collaborate and work with other developers
-- 🥅 2020 Goals: Learning new Programming Languages and improving my skills in the old ones
+- 🥅 2021 Goals: Learning new Programming Languages and improving my skills in the old ones
 - ⚡ Fun fact: I love to play video games[Blur, RDR 2]
 
 
@@ -42,4 +42,4 @@
 [twitter]: https://twitter.com/Rheeda_boo
 [instagram]: https://www.instagram.com/rheeda_boo/
 [linkedin]: https://www.linkedin.com/in/farida-baberin-yor-beacher-34055a148/
-[website]: https://azubiafrica.org
+[website]: https://www.amalitech.org/
