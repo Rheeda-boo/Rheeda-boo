@@ -5,7 +5,7 @@
 
 ## Developer, Learner, and July's favorite!
 
-- 🔭 I’m currently working as a Service Center trainee at [AmaliTech][website]!
+- 🔭 I’m currently working as a Junior Associate in Software Development at [AmaliTech][website]!
 - 🌱 I’m currently learning everything to improve myself😊
 - 👯 I’m looking to collaborate and work with other developers
 - 🥅 2021 Goals: Learning new Programming Languages and improving my skills in the old ones
